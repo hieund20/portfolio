@@ -1,6 +1,7 @@
 import React, { useEffect, useState } from "react";
 import jsonData from "./data/data.json";
 import "./App.scss";
+import Tooltip from "./sharedComponents/Tooltip/tooltip";
 
 interface IProject {
   name: string;
@@ -62,9 +63,15 @@ function App() {
               )}
             </div>
             <div className="card-title">
-              <a href={item.link} target="_blank" rel="noopener noreferrer">
-                {item.name}
-              </a>
+              <Tooltip
+                text={item.name}
+                children={
+                  <a href={item.link} target="_blank" rel="noopener noreferrer">
+                    {item.name}
+                  </a>
+                }
+                isEllipsis={true}
+              ></Tooltip>
             </div>
           </div>
         ))}
@@ -78,9 +85,15 @@ function App() {
               <img src={require(`./assets/img/${item.img_name}`)} alt="img" />
             </div>
             <div className="card-title">
-              <a href={item.link} target="_blank" rel="noopener noreferrer">
-                {item.name}
-              </a>
+              <Tooltip
+                text={item.name}
+                children={
+                  <a href={item.link} target="_blank" rel="noopener noreferrer">
+                    {item.name}
+                  </a>
+                }
+                isEllipsis={true}
+              ></Tooltip>
             </div>
           </div>
         ))}

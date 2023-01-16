@@ -1,0 +1,28 @@
+.tooltip-container {
+    & .tooltip-content {
+        &.ellipsis {
+            white-space: nowrap;
+            overflow: hidden;
+            text-overflow: ellipsis;
+        }
+    }
+
+    & .tooltip {
+        visibility: hidden;
+        width: fit-content;
+        background-color: rgba(162, 161, 161, 0.4);
+        border-radius: 4px;
+        padding: 4px 8px;
+
+        font-size: 12px;
+
+        position: absolute;
+        z-index: 1;
+    }
+
+    &:hover {
+        & .tooltip {
+            visibility: visible;
+        }
+    }
+}
