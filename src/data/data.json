@@ -1,0 +1,66 @@
+{
+  "real_project": [
+    {
+      "name": "Thang Long Real Asset Management",
+      "img_name": "",
+      "link": "#",
+      "is_private": "true"
+    },
+    {
+      "name": "VinHr Project",
+      "img_name": "",
+      "link": "#",
+      "is_private": "true"
+    },
+    {
+      "name": "HCMC Department of Science and Technology - Scientific Topic Management",
+      "img_name": "",
+      "link": "#",
+      "is_private": "true"
+    },
+    {
+      "name": "Hai Dang Group e-commerce",
+      "img_name": "",
+      "link": "#",
+      "is_private": "true"
+    }
+  ],
+  "pet_project": [
+    {
+      "name": "Cat Wiki",
+      "img_name": "cat-wiki.png",
+      "link": "https://github.com/hieund20/react-cats-wiki-app",
+      "is_private": "false"
+    },
+    {
+      "name": "Todo List",
+      "img_name": "todo-list.png",
+      "link": "https://github.com/hieund20/react-todo-list-app",
+      "is_private": "false"
+    },
+    {
+      "name": "Weather Forecast",
+      "img_name": "weather-app.png",
+      "link": "https://github.com/hieund20/react-weather-app",
+      "is_private": "false"
+    },
+    {
+      "name": "Github Job",
+      "img_name": "github-job.png",
+      "link": "https://github.com/hieund20/react-job-search-app",
+      "is_private": "false"
+    },
+    {
+      "name": "Quote Generator",
+      "img_name": "quote-generator.png",
+      "link": "https://github.com/hieund20/react-quote-generator-app",
+      "is_private": "false"
+    },
+    {
+      "name": "Country Quiz",
+      "img_name": "country-quiz.png",
+      "link": "https://github.com/hieund20/react-country-quiz-app",
+      "is_private": "false"
+    }
+  ]
+}
