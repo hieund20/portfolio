@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.5003cff8.css",
+    "main.js": "/portfolio/static/js/main.ca15574f.js",
+    "static/js/787.e4b653da.chunk.js": "/portfolio/static/js/787.e4b653da.chunk.js",
+    "static/media/cat-wiki.png": "/portfolio/static/media/cat-wiki.5ec09f73fdb1f81c029e.png",
+    "static/media/github-job.png": "/portfolio/static/media/github-job.6fe92b21066b4a591f1c.png",
+    "static/media/weather-app.png": "/portfolio/static/media/weather-app.7340463997521bdd32a8.png",
+    "static/media/country-quiz.png": "/portfolio/static/media/country-quiz.d1fa38a3ed453ca8396b.png",
+    "static/media/quote-generator.png": "/portfolio/static/media/quote-generator.17fa345645705c05964e.png",
+    "static/media/todo-list.png": "/portfolio/static/media/todo-list.b716eead6f877a860ba4.png",
+    "index.html": "/portfolio/index.html",
+    "main.5003cff8.css.map": "/portfolio/static/css/main.5003cff8.css.map",
+    "main.ca15574f.js.map": "/portfolio/static/js/main.ca15574f.js.map",
+    "787.e4b653da.chunk.js.map": "/portfolio/static/js/787.e4b653da.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5003cff8.css",
+    "static/js/main.ca15574f.js"
+  ]
+}
